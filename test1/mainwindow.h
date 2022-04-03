@@ -34,6 +34,9 @@ class MainWindow : public QMainWindow {
      */
     void handleFileOpen(bool checked);
     void handleFileAdd(bool checked);
+    /**
+     * @brief save file
+     */
     void handleFileSave(bool checked);
     void handlePrint(bool checked);
     void handleChangeModelColor();
