@@ -1,0 +1,13 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource prefix="/Icons">
+    <!-- Typical file operations. -->
+    <file>fileopen.svg</file>
+    <file>filesave.svg</file>
+    <file>fileadd.svg</file>
+    <file>print.svg</file>
+
+    <!-- Help -->
+    <file>help.svg</file>
+  </qresource>
+</RCC>
